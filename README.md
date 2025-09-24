@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Surprise AI Project**
 
-- 🌱 I’m currently learning **Docker, Blockchain, Java, Flutter, Rust**
+- 🌱 I’m currently learning **AI, Docker, Oracle, Java, Computer Vision**
 
 - 📫 How to reach me **iztefedmrc@gmail.com**
 
