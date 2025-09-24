@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">A passionate coder and AI/ML Enthusiast Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on **Coral Detection with YOLO Algorithm**
+- 🔭 I’m currently working on **Surprise AI Project**
 
 - 🌱 I’m currently learning **Docker, Blockchain, Java, Flutter, Rust**
 
